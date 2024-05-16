@@ -27,7 +27,7 @@ The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, com
 * Sequence-mining 0.0.3
 * Sequential 1.0.0
 
-Finally, the directory **data** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory **sources** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, **mel_communes** stores the shape files of Lille City.
+Finally, the directory ***data*** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory ***sources*** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, ***mel_communes*** stores the shape files of Lille City.
 
 Authors: 
 * Hugo Alatrista-Salas
