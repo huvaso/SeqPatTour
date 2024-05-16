@@ -31,7 +31,7 @@ Finally, the directory ***data*** contains the dataset used for experimental pur
 
 ## Support
 
-Please submit bug reports, questions and feature requests [issues](https://[pages.github.com](https://github.com/huvaso/SeqPatTour/issues)
+Please submit bug reports, questions and feature requests [issues](https://github.com/huvaso/SeqPatTour/issues)
 
 ## Citation
 
