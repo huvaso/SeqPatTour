@@ -29,7 +29,15 @@ The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, com
 
 Finally, the directory ***data*** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory ***sources*** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, ***mel_communes*** stores the shape files of Lille City.
 
-Authors: 
+## Support
+
+Please submit bug reports, questions and feature requests [issues](https://[pages.github.com](https://github.com/huvaso/SeqPatTour/issues)
+
+## Citation
+
+TBA
+
+## Authors 
 * Hugo Alatrista-Salas
 * Gaël Chareyron
 * Sonia Djebali
