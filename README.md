@@ -6,7 +6,7 @@
 
 The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, comprising of three comprehensive notebooks.
 
-1. *tpm_python.ipynb*: It contains sentences to build the graph and extract paths from it using several methods, such as A*, BFS, and Dijkstra. It also allows extracting sequential patterns with gap constraints using the library Seq2Pat. Then, several metrics were extracted in this same notebook. To work correctly, it uses eight Python files stored in the directory called *sources*.
+1. *tpm_python.ipynb*: It contains sentences to build the graph and extract paths from it using several methods, such as A*, BFS, and Dijkstra. It also allows extracting sequential patterns with gap constraints using the library [Seq2Pat](https://github.com/fidelity/seq2pat). Then, several metrics were extracted in this same notebook. To work correctly, it uses eight Python files stored in the directory called *sources*.
 2. *osm.ipynb*: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
 3. *tmp_figures.ipynb*: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
 
