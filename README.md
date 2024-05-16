@@ -10,6 +10,9 @@ The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, com
 2. *osm.ipynb*: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
 3. *tmp_figures*: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
 
+
+## Requirements
+
 **SeqPatTour** needs some libraries to work adequately:
 
 * Geopandas 0.14.1
