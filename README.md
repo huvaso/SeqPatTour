@@ -39,9 +39,6 @@ Please submit bug reports, questions and feature requests [issues](https://githu
 
 TBA
 
-## Authors 
-* Hugo Alatrista-Salas
-* Gaël Chareyron
-* Sonia Djebali
-* Imen Ouled-Dlala
-* Nicolas Travers
+## Contact 
+
+TBA
