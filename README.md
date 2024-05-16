@@ -5,9 +5,10 @@
 **SeqPatTour** is a methodology that innovatively mines and analyses tourist behaviour through sequential pattern analysis with data from Trip Advisor.
 
 The SeqPatTour methodology is meticulously implemented in Python 3.9.18, comprising of three comprehensive notebooks.
-tpm_python.ipynb: It contains sentences to build the graph and extract paths from it using several methods, such as A*, BFS, and Dijkstra. It also allows extracting sequential patterns with gap constraints using the library Seq2Pat. Then, several metrics were extracted in this same notebook. To work correctly, it uses eight Python files stored in the directory called *sources*.
-osm.ipynb: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
-tmp_figures: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
+
+1. tpm_python.ipynb: It contains sentences to build the graph and extract paths from it using several methods, such as A*, BFS, and Dijkstra. It also allows extracting sequential patterns with gap constraints using the library Seq2Pat. Then, several metrics were extracted in this same notebook. To work correctly, it uses eight Python files stored in the directory called *sources*.
+2. osm.ipynb: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
+3. tmp_figures: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
 
 **SeqPatTour** needs some libraries to work adequately:
 
