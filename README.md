@@ -8,7 +8,7 @@ The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, com
 
 1. *tpm_python.ipynb*: It contains sentences to build the graph and extract paths from it using several methods, such as A*, BFS, and Dijkstra. It also allows extracting sequential patterns with gap constraints using the library Seq2Pat. Then, several metrics were extracted in this same notebook. To work correctly, it uses eight Python files stored in the directory called *sources*.
 2. *osm.ipynb*: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
-3. *tmp_figures*: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
+3. *tmp_figures.ipynb*: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
 
 Finally, the directory ***data*** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory ***sources*** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, ***mel_communes*** stores the shape files of Lille City.
 
