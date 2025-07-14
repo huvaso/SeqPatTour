@@ -41,4 +41,4 @@ TBA
 
 ## Contact 
 
-TBA
+Hugo Alatrista-Salas (hugo.alatrista_salas@devici.fr)
