@@ -10,7 +10,7 @@ The **SeqPatTour** methodology is meticulously implemented in Python 3.9.18, com
 2. *osm.ipynb*: This notebook contains the functions and sentences for analyzing patterns spatially through Open Street Maps and permits the visualization of maps.
 3. *tmp_figures.ipynb*: It contains functions and sentences to visualize histograms and other figures for comparing techniques.
 
-Finally, the directory ***data*** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory ***sources*** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, ***mel_communes*** stores the shape files of Lille City.
+Then, the directory ***data*** contains the dataset used for experimental purposes. The dataset comprises two files, one storing the vertices and the other storing the edges. The directory ***sources*** contains our own libraries for reading files, pattern extraction, visualization, etc. Finally, ***mel_communes*** stores the shape files of Lille City.
 
 ## Requirements
 
