@@ -1,6 +1,16 @@
-# SeqPatTour
+# SeqPatTour: Sequential Patterns-based Metrics for Better Understanding the Tourism Behaviour
 
-## Sequential Patterns-based Metrics for Better Understanding the Tourism Behaviour
+## Created by
+**Author:** Hugo Alatrista-Salas <br />
+**Co-authors:** Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
+**Maintainer:** Hugo Alatrista-Salas <br />
+**Contact Details:** hugo.alatrista_salas@devinci.fr <br />
+**Institution:** De Vinci Higher Education, De Vinci Research Center, Paris, France 
+<br />
+
+**Note:** use Python 3.9.*
+
+## Description
 
 **SeqPatTour** is a methodology that innovatively mines and analyses tourist behaviour through sequential pattern analysis with data from Trip Advisor.
 
@@ -54,3 +64,4 @@ day={22},
 doi={10.1007/s11135-025-02501-3},
 url={https://doi.org/10.1007/s11135-025-02501-3}
 }
+```
