@@ -1,4 +1,4 @@
-# 🌍✈️ SeqPatTour: Sequential Patterns-based Metrics for Better Understanding the Tourism Behaviour
+# ✈️ SeqPatTour: Sequential Patterns-based Metrics for Better Understanding the Tourism Behaviour
 
 ## Created by
 **Author:** Hugo Alatrista-Salas <br />
