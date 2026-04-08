@@ -37,8 +37,20 @@ Please submit bug reports, questions and feature requests [issues](https://githu
 
 ## Citation
 
-TBA
+If you use this code or find it helpful in your research, please cite:
 
-## Contact 
-
-Hugo Alatrista-Salas (hugo.alatrista_salas@devici.fr)
+```bibtex
+@Article{Alatrista-Salas2025,
+author={Alatrista-Salas, Hugo
+and Chareyron, Ga{\"e}l
+and Djebali, Sonia
+and Ouled Dlala, Imen
+and Travers, Nicolas},
+title={SeqPatTour: sequential patterns-based metrics for better understanding the tourism behaviour},
+journal={Quality {\&} Quantity},
+year={2025},
+month={Dec},
+day={22},
+doi={10.1007/s11135-025-02501-3},
+url={https://doi.org/10.1007/s11135-025-02501-3}
+}
