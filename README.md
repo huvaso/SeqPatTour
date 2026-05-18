@@ -1,6 +1,6 @@
 # ✈️ SeqPatTour: Sequential Patterns-based Metrics for Better Understanding the Tourism Behaviour
 
-## Created by
+## About
 **Author:** Hugo Alatrista-Salas <br />
 **Co-authors:** Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
 **Maintainer:** Hugo Alatrista-Salas <br />
